@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidRoomDemo</string>
+    <string name="add_task">添加</string>
+</resources>
